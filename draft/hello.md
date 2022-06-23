@@ -9,7 +9,6 @@ object Hello {
     def main(args: Array[String]) = {
         println("Hello world")
     }
-    
 }
 ```
 
@@ -22,3 +21,5 @@ Using `runmd.sh hello.md`
 
 ### Other resources
 https://docs.scala-lang.org/
+
+
